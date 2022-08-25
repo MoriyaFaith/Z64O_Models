@@ -1,28 +1,168 @@
-# Blender MTL File: 'object_link_child.blend'
-# Material Count: 78
+# Blender MTL File: 'object_link_child_new.blend'
+# Material Count: 54
 
-newmtl Boomerang
+newmtl Material
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 0.000000
+Kd 0.640000 0.640000 0.640000
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
+map_Kd textures\nose.png
+uprop c
+vprop c
 
-newmtl boomerang.gem
+newmtl Material_06002530.tga.001
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
-Kd 0.383873 0.000000 0.055239
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\06002530.tga
+uprop c
+vprop c
+
+newmtl Material_060029F0.tga
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\060029F0.tga
+vprop c
+
+newmtl Material_06002EC8.tga
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\06002EC8.tga
+
+newmtl Material_06003788.tga.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\06003788.tga
+uprop c
+vprop c
+
+newmtl Material_060037C8.tga
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\060037C8.tga
+vprop c
+
+newmtl Material_Untitled.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\06002570.tga
+uprop c
+vprop c
+
+newmtl belt.buckle
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\RGBA16_06005740.tga
+uprop c
+vprop c
+
+newmtl belt.hole
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.639282 0.639282 0.639282
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\RGBA16_06006B00.tga
+vprop c
+
+newmtl belt.strap
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\RGBA16_06005B40.tga
+uprop c
+vprop c
+
+newmtl blue
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.029900 0.029900 0.447988
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.000000
 illum 2
+map_Kd textures\0600B168.tga
+map_d textures\\0600B168.tga
 
-newmtl ear
-Ns 94.117647
+newmtl body
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures\0600B1A8.tga
+uprop c
+
+newmtl bow.string_NOCULL
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Games\Modding\ModLoader64\Models\Z64O_Models\Saria\adult\textures\bowstring.png
+
+newmtl chain
+Ns 96.078431
 Ka 1.000000 1.000000 1.000000
 Kd 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000
@@ -30,198 +170,11 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd textures\ear.png
-
-newmtl ear_NONE
-Ns 94.117647
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 2
-map_Kd textures\\ear.png
-
-newmtl gerudo.eyes
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
-illum 2
-map_Kd textures\06010160.tga
-uprop c
-vprop c
-map_d textures\\06010160.tga
-
-newmtl gerudo.hair
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
-illum 2
-map_Kd textures\06010B60.tga
-map_d textures\\06010B60.tga
-
-newmtl gerudo.lips
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
-illum 2
-map_Kd textures\06010960.tga
-vprop c
-map_d textures\\06010960.tga
-
-newmtl gerudo.skin
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
-illum 2
-map_Kd textures\06010D60.tga
-uprop c
-vprop c
-map_d textures\\06010D60.tga
-
-newmtl glass
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.698100
-illum 2
-map_Kd textures\04001800_ZZFORCERGBA16.tga
-texgen on
-scaleS 0.022950
-scaleT 0.022950
-map_d textures\\06009E60_ZZFORCERGBA16.tga
-
-newmtl glass.contents
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.698100
-illum 2
-map_Kd textures\04001800_ZZFORCERGBA16.tga
-texgen on
-scaleS 0.022950
-scaleT 0.022950
-
-newmtl gold
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
-illum 2
-map_Kd textures\06009DE0_ZZFORCERGBA16.tga
-texgen on
-scaleS 0.004590
-scaleT 0.006120
-
-newmtl goran.insignia
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
-illum 2
-map_Kd textures\06009E60_ZZFORCERGBA16.tga
+map_Kd textures\0600B2A8.tga
 uprop c
 vprop c
 
-newmtl goron.eyes
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
-illum 2
-map_Kd textures\0600DDE0.tga
-uprop c
-vprop c
-map_d textures\\0600DDE0.tga
-
-newmtl goron.hair
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
-illum 2
-map_Kd textures\0600E660.tga
-vprop c
-map_d textures\\0600E660.tga
-
-newmtl goron.lips
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
-illum 2
-map_Kd textures\0600CDE0.tga
-uprop c
-vprop c
-map_d textures\\0600CDE0.tga
-
-newmtl goron.nose
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
-illum 2
-map_Kd textures\0600E5E0.tga
-uprop c
-vprop c
-map_d textures\\0600E5E0.tga
-
-newmtl goron.skin
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
-illum 2
-map_Kd textures\0600E860.tga
-uprop c
-vprop c
-map_d textures\\0600E860.tga
-
-newmtl hat_placeholder
+newmtl empty.dummy
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
 Kd 0.640000 0.640000 0.640000
@@ -231,7 +184,45 @@ Ni 1.000000
 d 1.000000
 illum 2
 
-newmtl hylian.back
+newmtl eyes
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\nose.png
+uprop c
+vprop c
+
+newmtl eyes_eyes.png
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\eyes.png
+uprop c
+vprop c
+
+newmtl eyes_skin.png.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\skin.png
+vprop c
+
+newmtl geruto.insignia
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
 Kd 1.000000 1.000000 1.000000
@@ -240,7 +231,84 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.000000
 illum 2
-map_Kd textures\060089E0.tga
+map_Kd textures\0600A968.tga
+uprop c
+map_d textures\\0600A968.tga
+
+newmtl geruto.insignia.2
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures\06009968.tga
+vprop c
+map_d textures\\06009968.tga
+
+newmtl geruto.insignia.dark
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures\06009968.tga
+vprop c
+map_d textures\\06009968.tga
+
+newmtl geruto.insignia.dark.1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures\\04000000.tga
+map_d textures\\04000000.tga
+
+newmtl handle
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\0600B228.tga
+
+newmtl hands
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\texture_0600DB08_ZZPAL0.png
+uprop c
+vprop c
+
+newmtl hands_CI8_06006A00_pal06005000.tga.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\CI8_06006A00_pal06005000.tga
+uprop c
+vprop c
 
 newmtl hylian.crest
 Ns 96.078431
@@ -251,9 +319,10 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.000000
 illum 2
-map_Kd textures\04000400_ZZFORCERGBA16.tga
+map_Kd textures\04000400_ALT.tga
+map_d textures\\04000400_ALT.tga
 
-newmtl keton.edge
+newmtl metal.hookshot
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
 Kd 1.000000 1.000000 1.000000
@@ -262,12 +331,11 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.000000
 illum 2
-map_Kd textures\0600B960.tga
-uprop c
-vprop c
-map_d textures\\0600B960.tga
+map_Kd textures\04000000.tga
+texgen on
+map_d textures\\04000000.tga
 
-newmtl keton.face
+newmtl metal.hookshot_0602B338.tga
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
 Kd 1.000000 1.000000 1.000000
@@ -276,27 +344,63 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.000000
 illum 2
-map_Kd textures\0600B560.tga
-uprop c
-vprop c
-map_d textures\\0600B560.tga
+map_Kd textures\0602B338.tga
+map_d textures\\04000000.tga
 
-newmtl kokiri.hilt
+newmtl metal.longshot
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
+Kd 1.000000 0.819608 0.270588
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures\04000000.tga
+texgen on
+map_d textures\\04000000.tga
+
+newmtl mirror
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.376471 0.505882 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures\shieldtexture.png
+texgen on
+map_d textures\\shieldtexture.png
+
+newmtl mirror.frame
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.679543 0.000000 0.000000
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd textures\kokiri_sword.tga
-vprop c
+map_Kd textures\04000000.tga
+texgen on
+
+newmtl mirror.surface
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.542745
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\04000000.tga
+texgen on
 
 newmtl mouth
-Ns 94.117647
+Ns 96.078431
 Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
@@ -306,7 +410,18 @@ map_Kd textures\mouth.png
 uprop c
 vprop c
 
-newmtl ms.guard
+newmtl ms.gem
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.466667 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\\04000000.tga
+
+newmtl ms.hilt.001
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
 Kd 1.000000 1.000000 1.000000
@@ -315,40 +430,20 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd textures\06006CE0_ZZPAL2.tga
+map_Kd textures\060090E8.tga
 
-newmtl ms.hilt
+newmtl ms.metal
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
+Kd 1.000000 0.843137 0.000000
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
-d 1.000000
+d 0.000000
 illum 2
-map_Kd textures\06006BE0_ZZPAL2.tga
-
-newmtl ms.insignia
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 2
-map_Kd textures\060070E0_ZZPAL2.tga
-
-newmtl mtl_060023F0.001
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 0.640000 0.640000 0.640000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 0
-map_Kd D:\Games\Modding\ModLoader64\Models\Saria\child - import\textures\060023F0.tga
+map_Kd textures\04000000.tga
+texgen on
+map_d textures\\04000000.tga
 
 newmtl mtl_060024F0.001
 Ns 96.078431
@@ -359,170 +454,11 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 0
-map_Kd D:\Games\Modding\ModLoader64\Models\Saria\child - import\textures\060024F0.tga
+map_Kd textures\060024F0.tga
 uprop c
 vprop c
 
-newmtl mtl_06002530.001
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 0.640000 0.640000 0.640000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 0
-map_Kd D:\Games\Modding\ModLoader64\Models\Saria\child - import\textures\06002530.tga
-uprop c
-vprop c
-
-newmtl mtl_06002570.001
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 0.640000 0.640000 0.640000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 0
-map_Kd D:\Games\Modding\ModLoader64\Models\Saria\child - import\textures\06002570.tga
-uprop c
-vprop c
-
-newmtl mtl_06002670.001
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 0.640000 0.640000 0.640000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 0
-map_Kd D:\Games\Modding\ModLoader64\Models\Saria\child - import\textures\06002670.tga
-
-newmtl mtl_06002770.001
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 0.640000 0.640000 0.640000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 0
-map_Kd D:\Games\Modding\ModLoader64\Models\Saria\child - import\textures\06002770.tga
-vprop c
-
-newmtl mtl_060029F0.001
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 0.640000 0.640000 0.640000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 0
-map_Kd D:\Games\Modding\ModLoader64\Models\Saria\child - import\textures\060029F0.tga
-vprop c
-
-newmtl mtl_06002EC8.001
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 0.640000 0.640000 0.640000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 0
-map_Kd D:\Games\Modding\ModLoader64\Models\Saria\child - import\textures\06002EC8.tga
-
-newmtl mtl_06003548.001
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 0.640000 0.640000 0.640000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 0
-map_Kd D:\Games\Modding\ModLoader64\Models\Saria\child - import\textures\06003548.tga
-uprop c
-vprop c
-
-newmtl mtl_06003548.001_NONE
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 0.640000 0.640000 0.640000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 0
-map_Kd D:\\Games\\Modding\\ModLoader64\\Models\\Saria\\child - import\\textures\\06003548.tga
-
-newmtl mtl_06003788.001
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 0.640000 0.640000 0.640000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 0
-map_Kd D:\Games\Modding\ModLoader64\Models\Saria\child - import\textures\06003788.tga
-uprop c
-vprop c
-
-newmtl mtl_060037C8.001
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 0.640000 0.640000 0.640000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 0
-map_Kd D:\Games\Modding\ModLoader64\Models\Saria\child - import\textures\060037C8.tga
-vprop c
-
-newmtl mtl_06003808.001
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 0.640000 0.640000 0.640000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 0
-map_Kd D:\Games\Modding\ModLoader64\Models\Saria\child - import\textures\06003808.tga
-uprop c
-vprop c
-
-newmtl mtl_09000000.001
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 0.640000 0.640000 0.640000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 0
-map_Kd D:\Games\Modding\ModLoader64\Models\Saria\child - import\textures\eyes.png
-vprop c
-
-newmtl mtl_0A000000.001
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 0.640000 0.640000 0.640000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 0
-map_Kd D:\Games\Modding\ModLoader64\Models\Saria\child - import\textures\mouth.png
-uprop c
-vprop c
-
-newmtl new.shield_front
+newmtl mtl_06019240
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
 Kd 0.640000 0.640000 0.640000
@@ -531,18 +467,31 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd textures\kokiri_shield.tga
+map_Kd textures\06019240.tga
+uprop c
+vprop c
 
-newmtl nose
-Ns 94.117647
+newmtl mtl_0601A280.001
+Ns 96.078431
 Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd textures\nose.png
+map_Kd textures\\0601A280.tga
+
+newmtl ns.guard
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.015686 1.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\\06006CE0.tga
 
 newmtl ocarian.fairy
 Ns 96.078431
@@ -557,274 +506,109 @@ map_Kd textures\060091E0.tga
 uprop c
 vprop c
 
-newmtl redead.brown
+newmtl orange
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
-Kd 0.000000 0.000000 0.000000
+Kd 0.876910 0.420917 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Games\Modding\ModLoader64\Models\Z64O_Models\Saria\adult\textures\0600B168.tga
+
+newmtl red
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\0600B168.tga
+
+newmtl saria.shirt
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.113725 0.250980 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures\06002670.tga
+
+newmtl saria.shirt_I8_06005C40_ZZRGBA16.tga
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.113725 0.250980 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures\I8_06005C40_ZZRGBA16.tga
+
+newmtl saria_belt.001
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures\RGBA16_06005740.tga
+uprop c
+vprop c
+
+newmtl saria_boot
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\060023F0.tga
+
+newmtl saria_pants
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.113725 0.250980 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures\I8_06005D80_ZZRGBA16.tga
+
+newmtl shield.back
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\06009768.tga
+
+newmtl sleeves
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 0
-map_Kd textures\0600A560.tga
-uprop c
+map_Kd textures\060029F0.tga
 vprop c
 
-newmtl redead.yellow
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 0.212231 0.212231 0.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 0
-map_Kd textures\0600A560.tga
-uprop c
-vprop c
-map_d textures\\0600A560.tga
-
-newmtl saria_belt
-Ns 94.117647
-Ka 1.000000 1.000000 1.000000
-Kd 0.012983 0.141263 0.010960
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
-illum 2
-map_Kd textures\belt_ZZTUNIC.png
-
-newmtl saria_boot_bottom
-Ns 94.117647
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 2
-map_Kd textures\boot_ZZTUNIC.png
-
-newmtl saria_boot_top
-Ns 94.117647
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 2
-map_Kd textures\boot_ZZTUNIC.png
-
-newmtl saria_eyes
-Ns 94.117647
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 2
-map_Kd textures\eyes.png
-uprop c
-vprop c
-
-newmtl saria_eyes_NONE
-Ns 94.117647
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 2
-
-newmtl saria_hair
-Ns 94.117647
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
-illum 2
-map_Kd textures\hair.png
-
-newmtl saria_hands
-Ns 94.117647
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 2
-map_Kd textures\hand.png
-uprop c
-vprop c
-
-newmtl saria_headband
-Ns 94.117647
-Ka 1.000000 1.000000 1.000000
-Kd 0.012983 0.141263 0.010960
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
-illum 2
-map_Kd textures\headband_ZZTUNIC.png
-map_d textures\\headband_ZZTUNIC.png
-
-newmtl saria_sheath_black
-Ns 94.117647
-Ka 1.000000 1.000000 1.000000
-Kd 0.000000 0.000000 0.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 2
-map_Kd textures\\kokiri_sword.tga
-
-newmtl saria_tunic_dark
-Ns 94.117647
-Ka 1.000000 1.000000 1.000000
-Kd 0.012983 0.141263 0.010960
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
-illum 2
-map_Kd textures\sleeves_headband_ZZTUNIC.png
-
-newmtl saria_tunic_dark_headband_ZZTUNIC.png
-Ns 94.117647
-Ka 1.000000 1.000000 1.000000
-Kd 0.012983 0.141263 0.010960
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
-illum 2
-map_Kd textures\headband_ZZTUNIC.png
-
-newmtl saria_tunic_light
-Ns 94.117647
-Ka 1.000000 1.000000 1.000000
-Kd 0.012983 0.141263 0.010960
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
-illum 2
-map_Kd textures\tunic_ZZTUNIC.png
-
-newmtl sheath_saria
-Ns 94.117647
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 2
-map_Kd textures\sheath.tga
-vprop c
-
-newmtl sheika.insignia
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
-illum 2
-map_Kd textures\0600BDE0.tga
-uprop c
-vprop c
-map_d textures\\0600BDE0.tga
-
-newmtl shine
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
-illum 2
-map_Kd textures\04000000_ZZFORCERGBA16.tga
-texgen on
-
-newmtl skel.eyes
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
-illum 2
-map_Kd textures\0600A360.tga
-uprop c
-vprop c
-map_d textures\\0600A360.tga
-
-newmtl skel.nose
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
-illum 2
-map_Kd textures\0600A2E0.tga
-uprop c
-vprop c
-map_d textures\\0600A2E0.tga
-
-newmtl skel.tooth
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
-illum 2
-map_Kd textures\0600A260.tga
-vprop c
-map_d textures\\0600A260.tga
-
-newmtl skin
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 2
-map_Kd textures\060095E0_ZZPAL0.tga
-uprop c
-vprop c
-
-newmtl slingshot
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
-illum 2
-map_Kd textures\06008DE0.tga
-vprop c
-
-newmtl slingshot.string
+newmtl slingshot.string_NOCULL
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
 Kd 1.000000 1.000000 0.610496
@@ -834,44 +618,8 @@ Ni 1.000000
 d 1.000000
 illum 2
 
-newmtl sora.skin
+newmtl string
 Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
-illum 2
-map_Kd textures\0600E8E0.tga
-uprop c
-vprop c
-map_d textures\\0600E8E0.tga
-
-newmtl stick
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 0.930111 0.371238 0.152926
-Ks 0.000000 0.000000 0.000000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
-illum 1
-map_Kd textures\04001A00.tga
-
-newmtl stick.yellow
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 0.212231
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 2
-map_Kd textures\04001A00.tga
-
-newmtl thighback
-Ns 94.117647
 Ka 1.000000 1.000000 1.000000
 Kd 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000
@@ -879,11 +627,10 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd textures\skin.png
-vprop c
+map_Kd textures\060096E8.tga
 
-newmtl thighfront
-Ns 94.117647
+newmtl string_06005600_ZZPAL1.tga
+Ns 96.078431
 Ka 1.000000 1.000000 1.000000
 Kd 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000
@@ -891,72 +638,15 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd textures\leg.png
-uprop c
+map_Kd textures\06005600_ZZPAL1.tga
 
-newmtl truth.side
+newmtl yellow
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
+Kd 0.678431 0.572549 0.000000
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
-d 0.000000
+d 1.000000
 illum 2
-map_Kd textures\0600B9E0.tga
-uprop c
-vprop c
-map_d textures\\0600B9E0.tga
-
-newmtl wood.back
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
-illum 2
-map_Kd textures\060071E0.tga
-
-newmtl zora.eyes
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
-illum 2
-map_Kd textures\0600F960.tga
-uprop c
-vprop c
-map_d textures\\0600F960.tga
-
-newmtl zora.fin
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
-illum 2
-map_Kd textures\0600E960.tga
-uprop c
-vprop c
-map_d textures\\0600E960.tga
-
-newmtl zora.mouth
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.000000
-illum 2
-map_Kd textures\0600F160.tga
-uprop c
-vprop c
-map_d textures\\0600F160.tga
+map_Kd textures\0600B168.tga
