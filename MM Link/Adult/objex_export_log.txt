@@ -2,108 +2,106 @@ WARNING:objex.OBJEX_OT_export.execute: Scene uses display_device='sRGB' which ch
 This can be changed under Color Management in Render properties.
 Note that this should also be kept consistent with the Color Space property of image texture nodes (display_device="None", Color Space="Linear").
 Recommended value: None
-INFO:objex.OBJEX_OT_export.progress_report_print:   (  0.0228 sec |   0.0000 sec) Objex Export path: 'D:\\Games\\Modding\\Zelda 64\\Models\\Z64O_Models\\MM Link\\Adult\\object_link_boy_2_8.objex'
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.0239 sec |   0.0000 sec) Finished writing geometry of 'Sun'.
+INFO:objex.OBJEX_OT_export.progress_report_print:   (  0.0000 sec |   0.0000 sec) Objex Export path: 'D:\\Games\\Modding\\Zelda 64\\Models\\Z64O_Models\\MM Link\\Adult\\object_link_boy.objex'
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.0090 sec |   0.0070 sec) Finished writing geometry of 'Sun'.
 DEBUG:objex.ObjexWriter.write_object: Skipped triangulating Hookshot.Spike, mesh only has triangles
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.0297 sec |   0.0048 sec) Finished writing geometry of 'Hookshot.Spike'.
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.0313 sec |   0.0005 sec) Finished writing geometry of 'skeleton'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.0143 sec |   0.0037 sec) Finished writing geometry of 'Hookshot.Spike'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.0159 sec |   0.0005 sec) Finished writing geometry of 'skeleton'.
 DEBUG:objex.ObjexWriter.write_object: Skipped triangulating Blade.2, mesh only has triangles
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.0403 sec |   0.0079 sec) Finished writing geometry of 'Blade.2'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.0229 sec |   0.0053 sec) Finished writing geometry of 'Blade.2'.
 DEBUG:objex.ObjexWriter.write_object: Skipped triangulating Sheath.3, mesh only has triangles
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.0467 sec |   0.0048 sec) Finished writing geometry of 'Sheath.3'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.0314 sec |   0.0074 sec) Finished writing geometry of 'Sheath.3'.
 WARNING:objex.ObjexWriter.write_object: Mesh Sheath is not triangulated and will be triangulated automatically (for exporting only).
 Preview accuracy (UVs, shading, vertex colors) is improved by using a triangulated mesh.
 Note: mesh has no triangulate modifier
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.0529 sec |   0.0052 sec) Finished writing geometry of 'Sheath'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.0403 sec |   0.0057 sec) Finished writing geometry of 'Sheath'.
 DEBUG:objex.ObjexWriter.write_object: Skipped triangulating Broken.Blade.3, mesh only has triangles
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.0598 sec |   0.0058 sec) Finished writing geometry of 'Broken.Blade.3'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.0477 sec |   0.0064 sec) Finished writing geometry of 'Broken.Blade.3'.
 DEBUG:objex.ObjexWriter.write_object: Skipped triangulating riggedmesh, mesh only has triangles
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.1246 sec |   0.0632 sec) Finished writing geometry of 'riggedmesh'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.0906 sec |   0.0413 sec) Finished writing geometry of 'riggedmesh'.
 WARNING:objex.ObjexWriter.write_object: Mesh Fist.L is not triangulated and will be triangulated automatically (for exporting only).
 Preview accuracy (UVs, shading, vertex colors) is improved by using a triangulated mesh.
 Note: mesh has no triangulate modifier
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.1335 sec |   0.0074 sec) Finished writing geometry of 'Fist.L'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.0978 sec |   0.0057 sec) Finished writing geometry of 'Fist.L'.
 WARNING:objex.ObjexWriter.write_object: Mesh Fist.R is not triangulated and will be triangulated automatically (for exporting only).
 Preview accuracy (UVs, shading, vertex colors) is improved by using a triangulated mesh.
 Note: mesh has no triangulate modifier
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.1431 sec |   0.0080 sec) Finished writing geometry of 'Fist.R'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.1052 sec |   0.0064 sec) Finished writing geometry of 'Fist.R'.
 WARNING:objex.ObjexWriter.write_object: Mesh Bottle.Hand.L is not triangulated and will be triangulated automatically (for exporting only).
 Preview accuracy (UVs, shading, vertex colors) is improved by using a triangulated mesh.
 Note: mesh has no triangulate modifier
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.1515 sec |   0.0074 sec) Finished writing geometry of 'Bottle.Hand.L'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.1125 sec |   0.0063 sec) Finished writing geometry of 'Bottle.Hand.L'.
 DEBUG:objex.ObjexWriter.write_object: Skipped triangulating Ocarina.2, mesh only has triangles
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.1610 sec |   0.0079 sec) Finished writing geometry of 'Ocarina.2'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.1204 sec |   0.0063 sec) Finished writing geometry of 'Ocarina.2'.
 DEBUG:objex.ObjexWriter.write_object: Skipped triangulating Blade.2.alt, mesh only has triangles
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.1786 sec |   0.0138 sec) Finished writing geometry of 'Blade.2.alt'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.1305 sec |   0.0080 sec) Finished writing geometry of 'Blade.2.alt'.
 DEBUG:objex.ObjexWriter.write_object: Skipped triangulating Hilt.2, mesh only has triangles
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.1969 sec |   0.0166 sec) Finished writing geometry of 'Hilt.2'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.1420 sec |   0.0104 sec) Finished writing geometry of 'Hilt.2'.
 DEBUG:objex.ObjexWriter.write_object: Skipped triangulating Shield.2, mesh only has triangles
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.2064 sec |   0.0073 sec) Finished writing geometry of 'Shield.2'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.1489 sec |   0.0053 sec) Finished writing geometry of 'Shield.2'.
 DEBUG:objex.ObjexWriter.write_object: Skipped triangulating Blade.3, mesh only has triangles
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.2165 sec |   0.0080 sec) Finished writing geometry of 'Blade.3'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.1557 sec |   0.0053 sec) Finished writing geometry of 'Blade.3'.
 WARNING:objex.ObjexWriter.write_object: Object Bottle was found to be rigged to skeleton but it also has an armature deform modifier using None
 DEBUG:objex.ObjexWriter.write_object: Skipped triangulating Bottle, mesh only has triangles
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.2313 sec |   0.0127 sec) Finished writing geometry of 'Bottle'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.1643 sec |   0.0070 sec) Finished writing geometry of 'Bottle'.
 WARNING:objex.ObjexWriter.write_object: Mesh Hilt.3 is not triangulated and will be triangulated automatically (for exporting only).
 Preview accuracy (UVs, shading, vertex colors) is improved by using a triangulated mesh.
 Note: mesh has no triangulate modifier
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.2486 sec |   0.0152 sec) Finished writing geometry of 'Hilt.3'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.1770 sec |   0.0111 sec) Finished writing geometry of 'Hilt.3'.
 DEBUG:objex.ObjexWriter.write_object: Skipped triangulating Shield.3, mesh only has triangles
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.2617 sec |   0.0116 sec) Finished writing geometry of 'Shield.3'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.1871 sec |   0.0085 sec) Finished writing geometry of 'Shield.3'.
 DEBUG:objex.ObjexWriter.write_object: Skipped triangulating Gauntlet.Fist.L, mesh only has triangles
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.2778 sec |   0.0134 sec) Finished writing geometry of 'Gauntlet.Fist.L'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.1971 sec |   0.0085 sec) Finished writing geometry of 'Gauntlet.Fist.L'.
 DEBUG:objex.ObjexWriter.write_object: Skipped triangulating Gauntlet.Fist.R, mesh only has triangles
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.2905 sec |   0.0106 sec) Finished writing geometry of 'Gauntlet.Fist.R'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.2071 sec |   0.0084 sec) Finished writing geometry of 'Gauntlet.Fist.R'.
 DEBUG:objex.ObjexWriter.write_object: Skipped triangulating Gauntlet.Forearm.L, mesh only has triangles
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.3042 sec |   0.0116 sec) Finished writing geometry of 'Gauntlet.Forearm.L'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.2180 sec |   0.0093 sec) Finished writing geometry of 'Gauntlet.Forearm.L'.
 DEBUG:objex.ObjexWriter.write_object: Skipped triangulating Gauntlet.Forearm.R, mesh only has triangles
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.3271 sec |   0.0203 sec) Finished writing geometry of 'Gauntlet.Forearm.R'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.2277 sec |   0.0082 sec) Finished writing geometry of 'Gauntlet.Forearm.R'.
 DEBUG:objex.ObjexWriter.write_object: Skipped triangulating Gauntlet.Hand.L, mesh only has triangles
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.3425 sec |   0.0128 sec) Finished writing geometry of 'Gauntlet.Hand.L'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.2386 sec |   0.0094 sec) Finished writing geometry of 'Gauntlet.Hand.L'.
 DEBUG:objex.ObjexWriter.write_object: Skipped triangulating Gauntlet.Hand.R, mesh only has triangles
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.3611 sec |   0.0165 sec) Finished writing geometry of 'Gauntlet.Hand.R'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.2535 sec |   0.0127 sec) Finished writing geometry of 'Gauntlet.Hand.R'.
 DEBUG:objex.ObjexWriter.write_object: Skipped triangulating Foot.2.L, mesh only has triangles
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.3786 sec |   0.0148 sec) Finished writing geometry of 'Foot.2.L'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.2682 sec |   0.0094 sec) Finished writing geometry of 'Foot.2.L'.
 DEBUG:objex.ObjexWriter.write_object: Skipped triangulating Foot.2.R, mesh only has triangles
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.3925 sec |   0.0117 sec) Finished writing geometry of 'Foot.2.R'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.2803 sec |   0.0094 sec) Finished writing geometry of 'Foot.2.R'.
 DEBUG:objex.ObjexWriter.write_object: Skipped triangulating Foot.3.L, mesh only has triangles
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.4122 sec |   0.0175 sec) Finished writing geometry of 'Foot.3.L'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.2991 sec |   0.0168 sec) Finished writing geometry of 'Foot.3.L'.
 DEBUG:objex.ObjexWriter.write_object: Skipped triangulating Foot.3.R, mesh only has triangles
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.4312 sec |   0.0158 sec) Finished writing geometry of 'Foot.3.R'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.3134 sec |   0.0125 sec) Finished writing geometry of 'Foot.3.R'.
 DEBUG:objex.ObjexWriter.write_object: Skipped triangulating Bow, mesh only has triangles
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.4494 sec |   0.0166 sec) Finished writing geometry of 'Bow'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.3297 sec |   0.0131 sec) Finished writing geometry of 'Bow'.
 WARNING:objex.ObjexWriter.write_object: Mesh Hammer is not triangulated and will be triangulated automatically (for exporting only).
 Preview accuracy (UVs, shading, vertex colors) is improved by using a triangulated mesh.
 Note: mesh has no triangulate modifier
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.4680 sec |   0.0176 sec) Finished writing geometry of 'Hammer'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.3479 sec |   0.0165 sec) Finished writing geometry of 'Hammer'.
 WARNING:objex.ObjexWriter.write_object: Mesh Hookshot is not triangulated and will be triangulated automatically (for exporting only).
 Preview accuracy (UVs, shading, vertex colors) is improved by using a triangulated mesh.
 Note: mesh has no triangulate modifier
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.4962 sec |   0.0254 sec) Finished writing geometry of 'Hookshot'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.3666 sec |   0.0171 sec) Finished writing geometry of 'Hookshot'.
 DEBUG:objex.ObjexWriter.write_object: Skipped triangulating FPS.Forearm.L, mesh only has triangles
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.5068 sec |   0.0095 sec) Finished writing geometry of 'FPS.Forearm.L'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.3769 sec |   0.0083 sec) Finished writing geometry of 'FPS.Forearm.L'.
 DEBUG:objex.ObjexWriter.write_object: Skipped triangulating Blade.3.Break, mesh only has triangles
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.5110 sec |   0.0031 sec) Finished writing geometry of 'Blade.3.Break'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.3832 sec |   0.0047 sec) Finished writing geometry of 'Blade.3.Break'.
 DEBUG:objex.ObjexWriter.write_object: Skipped triangulating Bow.String, mesh only has triangles
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.5147 sec |   0.0027 sec) Finished writing geometry of 'Bow.String'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.3890 sec |   0.0037 sec) Finished writing geometry of 'Bow.String'.
 DEBUG:objex.ObjexWriter.write_object: Skipped triangulating FPS.Forearm.R, mesh only has triangles
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.5221 sec |   0.0069 sec) Finished writing geometry of 'FPS.Forearm.R'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.3974 sec |   0.0073 sec) Finished writing geometry of 'FPS.Forearm.R'.
 DEBUG:objex.ObjexWriter.write_object: Skipped triangulating FPS.Hand.L, mesh only has triangles
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.5321 sec |   0.0090 sec) Finished writing geometry of 'FPS.Hand.L'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.4094 sec |   0.0095 sec) Finished writing geometry of 'FPS.Hand.L'.
 DEBUG:objex.ObjexWriter.write_object: Skipped triangulating FPS.Hand.R, mesh only has triangles
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.5432 sec |   0.0100 sec) Finished writing geometry of 'FPS.Hand.R'.
-DEBUG:objex.ObjexWriter.write_object: Skipped triangulating Hookshot.Aiming.Reticule, mesh only has triangles
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.5448 sec |   0.0010 sec) Finished writing geometry of 'Hookshot.Aiming.Reticule'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.4203 sec |   0.0083 sec) Finished writing geometry of 'FPS.Hand.R'.
 DEBUG:objex.ObjexWriter.write_object: Skipped triangulating Hookshot.Chain, mesh only has triangles
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.5475 sec |   0.0022 sec) Finished writing geometry of 'Hookshot.Chain'.
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.5485 sec |   0.0000 sec) Finished writing geometry of 'yl.skeleton'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.4267 sec |   0.0053 sec) Finished writing geometry of 'Hookshot.Chain'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.4299 sec |   0.0005 sec) Finished writing geometry of 'yl.skeleton'.
 DEBUG:objex.ObjexWriter.write_object: Skipped triangulating young.link, mesh only has triangles
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.6060 sec |   0.0558 sec) Finished writing geometry of 'young.link'.
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.4881 sec |   0.0556 sec) Finished writing geometry of 'young.link'.
 WARNING:objex.ObjexWriter.write_object: Mesh FPS.Hookshot is not triangulated and will be triangulated automatically (for exporting only).
 Preview accuracy (UVs, shading, vertex colors) is improved by using a triangulated mesh.
 Note: mesh has no triangulate modifier
-INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.6277 sec |   0.0206 sec) Finished writing geometry of 'FPS.Hookshot'.
-INFO:objex.OBJEX_OT_export.progress_report_print:     (  0.6287 sec |   0.6054 sec) Finished exporting geometry, now exporting materials
+INFO:objex.OBJEX_OT_export.progress_report_print:         (  0.5086 sec |   0.0189 sec) Finished writing geometry of 'FPS.Hookshot'.
+INFO:objex.OBJEX_OT_export.progress_report_print:     (  0.5113 sec |   0.5103 sec) Finished exporting geometry, now exporting materials
 TRACE:objex.export_objex_mtl.write_mtl: Writing name='metal' name_q='"metal"' material=Evaluated Material 'metal' face_img=None
 DEBUG:objex.ObjexMaterialNodeTreeExplorer.buildCombinerInputs: per-flag used sockets: {'G_ACMUX_SHADE': Evaluated NodeTree 'Shader Nodetree', 'G_ACMUX_TEXEL0': Evaluated NodeTree 'Shader Nodetree', 'G_ACMUX_PRIMITIVE': Evaluated NodeTree 'Shader Nodetree', 'G_CCMUX_SHADE': Evaluated NodeTree 'Shader Nodetree', 'G_CCMUX_TEXEL0': Evaluated NodeTree 'Shader Nodetree', 'G_CCMUX_PRIMITIVE': Evaluated NodeTree 'Shader Nodetree'}
 DEBUG:objex.ObjexMaterialNodeTreeExplorer.buildCombinerInputs: getting primitiveRGB from Evaluated NodeTree 'Shader Nodetree' (socket node: Evaluated NodeTree 'Shader Nodetree')
@@ -946,19 +944,6 @@ DEBUG:objex.ObjexMaterialNodeTreeExplorer.buildCombinerInputs: data before merge
 DEBUG:objex.ObjexMaterialNodeTreeExplorer.buildCombinerInputs: Merged primitiveRGB bpy.data.node_groups['Shader Nodetree']...default_value and primitiveA 1.0 into primitive (1.0, 1.0, 1.0, 1.0)
 DEBUG:objex.ObjexMaterialNodeTreeExplorer.buildCombinerInputs: Merged environmentRGB bpy.data.node_groups['Shader Nodetree']...default_value and environmentA 1.0 into environment (1.0, 1.0, 1.0, 1.0)
 DEBUG:objex.ObjexMaterialNodeTreeExplorer.buildCombinerInputs: Merged shadeRGB {'type': 'normals'} and shadeA {'type': 'normals'} into shade {'type': 'normals'}
-TRACE:objex.export_objex_mtl.write_mtl: Writing name='Hookshot.Aim' name_q='"Hookshot.Aim"' material=Evaluated Material 'Hookshot.Aim' face_img=None
-DEBUG:objex.ObjexMaterialNodeTreeExplorer.buildCombinerInputs: per-flag used sockets: {'G_ACMUX_SHADE': Evaluated NodeTree 'Shader Nodetree', 'G_ACMUX_TEXEL0': Evaluated NodeTree 'Shader Nodetree', 'G_ACMUX_PRIMITIVE': Evaluated NodeTree 'Shader Nodetree', 'G_CCMUX_SHADE': Evaluated NodeTree 'Shader Nodetree', 'G_CCMUX_TEXEL0': Evaluated NodeTree 'Shader Nodetree', 'G_CCMUX_PRIMITIVE': Evaluated NodeTree 'Shader Nodetree'}
-DEBUG:objex.ObjexMaterialNodeTreeExplorer.buildCombinerInputs: getting primitiveRGB from Evaluated NodeTree 'Shader Nodetree' (socket node: Evaluated NodeTree 'Shader Nodetree')
-DEBUG:objex.ObjexMaterialNodeTreeExplorer.buildCombinerInputs: getting primitiveA from Evaluated NodeTree 'Shader Nodetree' (socket node: Evaluated NodeTree 'Shader Nodetree')
-DEBUG:objex.ObjexMaterialNodeTreeExplorer.buildCombinerInputs: getting texel0RGB from Evaluated NodeTree 'Shader Nodetree' (socket node: Evaluated NodeTree 'Shader Nodetree')
-DEBUG:objex.ObjexMaterialNodeTreeExplorer.buildCombinerInputs: getting texel0A from Evaluated NodeTree 'Shader Nodetree' (socket node: Evaluated NodeTree 'Shader Nodetree')
-DEBUG:objex.ObjexMaterialNodeTreeExplorer.buildCombinerInputs: getting shadeRGB from Evaluated NodeTree 'Shader Nodetree' (socket node: Evaluated NodeTree 'Shader Nodetree')
-DEBUG:objex.ObjexMaterialNodeTreeExplorer.buildCombinerInputs: getting shadeA from Evaluated NodeTree 'Shader Nodetree' (socket node: Evaluated NodeTree 'Shader Nodetree')
-DEBUG:objex.ObjexMaterialNodeTreeExplorer.buildCombinerInputs: data before merge: {'primitiveRGB': bpy.data.node_groups['Shader Nodetree']...default_value, 'primitiveA': 1.0, 'texel0RGB': {'image': bpy.data.images['earring'], 'uv_scale_u': 0, 'uv_scale_v': 0, 'uv_wrap_u': True, 'uv_wrap_v': True, 'uv_mirror_u': False, 'uv_mirror_v': False, 'uv_layer': False, 'uv_map': '', 'texgen': False, 'texgen_linear': False, 'uv_scale_u_main': 1.0, 'uv_scale_v_main': 1.0}, 'texel0A': {'image': bpy.data.images['earring'], 'uv_scale_u': 0, 'uv_scale_v': 0, 'uv_wrap_u': True, 'uv_wrap_v': True, 'uv_mirror_u': False, 'uv_mirror_v': False, 'uv_layer': False, 'uv_map': '', 'texgen': False, 'texgen_linear': False, 'uv_scale_u_main': 1.0, 'uv_scale_v_main': 1.0}, 'shadeRGB': {'type': 'normals'}, 'shadeA': {'type': 'normals'}}
-DEBUG:objex.ObjexMaterialNodeTreeExplorer.buildCombinerInputs: Merged primitiveRGB bpy.data.node_groups['Shader Nodetree']...default_value and primitiveA 1.0 into primitive (1.0, 1.0, 1.0, 1.0)
-DEBUG:objex.ObjexMaterialNodeTreeExplorer.buildCombinerInputs: Merged texel0RGB {'image': bpy.data.images['earring'], 'uv_scale_u': 0, 'uv_scale_v': 0, 'uv_wrap_u': True, 'uv_wrap_v': True, 'uv_mirror_u': False, 'uv_mirror_v': False, 'uv_layer': False, 'uv_map': '', 'texgen': False, 'texgen_linear': False, 'uv_scale_u_main': 1.0, 'uv_scale_v_main': 1.0} and texel0A {'image': bpy.data.images['earring'], 'uv_scale_u': 0, 'uv_scale_v': 0, 'uv_wrap_u': True, 'uv_wrap_v': True, 'uv_mirror_u': False, 'uv_mirror_v': False, 'uv_layer': False, 'uv_map': '', 'texgen': False, 'texgen_linear': False, 'uv_scale_u_main': 1.0, 'uv_scale_v_main': 1.0} into texel0 {'image': bpy.data.images['earring'], 'uv_scale_u': 0, 'uv_scale_v': 0, 'uv_wrap_u': True, 'uv_wrap_v': True, 'uv_mirror_u': False, 'uv_mirror_v': False, 'uv_layer': False, 'uv_map': '', 'texgen': False, 'texgen_linear': False, 'uv_scale_u_main': 1.0, 'uv_scale_v_main': 1.0}
-DEBUG:objex.ObjexMaterialNodeTreeExplorer.buildCombinerInputs: Merged shadeRGB {'type': 'normals'} and shadeA {'type': 'normals'} into shade {'type': 'normals'}
-TRACE:objex.export_objex_mtl.writeTexture: Skipped writing texture earring <bpy_struct, Image("earring")>
 TRACE:objex.export_objex_mtl.write_mtl: Writing name='Bruh_ZZNOCULL' name_q='"Bruh_ZZNOCULL"' material=Evaluated Material 'Bruh_ZZNOCULL' face_img=None
 WARNING:objex.export_objex_mtl.detect_zztag: Found what may be an ancient ZZ-tag in name Bruh_ZZNOCULL
 Those are not used at all anymore and will be ignored
@@ -973,7 +958,7 @@ DEBUG:objex.ObjexMaterialNodeTreeExplorer.buildCombinerInputs: data before merge
 DEBUG:objex.ObjexMaterialNodeTreeExplorer.buildCombinerInputs: Merged primitiveRGB bpy.data.node_groups['Shader Nodetree']...default_value and primitiveA 1.0 into primitive (1.0, 1.0, 1.0, 1.0)
 DEBUG:objex.ObjexMaterialNodeTreeExplorer.buildCombinerInputs: Merged texel0RGB {'image': bpy.data.images['06005740.tga'], 'uv_scale_u': 0, 'uv_scale_v': 0, 'uv_wrap_u': True, 'uv_wrap_v': True, 'uv_mirror_u': False, 'uv_mirror_v': False, 'uv_layer': False, 'uv_map': '', 'texgen': False, 'texgen_linear': False, 'uv_scale_u_main': 1.0, 'uv_scale_v_main': 1.0} and texel0A {'image': bpy.data.images['06005740.tga'], 'uv_scale_u': 0, 'uv_scale_v': 0, 'uv_wrap_u': True, 'uv_wrap_v': True, 'uv_mirror_u': False, 'uv_mirror_v': False, 'uv_layer': False, 'uv_map': '', 'texgen': False, 'texgen_linear': False, 'uv_scale_u_main': 1.0, 'uv_scale_v_main': 1.0} into texel0 {'image': bpy.data.images['06005740.tga'], 'uv_scale_u': 0, 'uv_scale_v': 0, 'uv_wrap_u': True, 'uv_wrap_v': True, 'uv_mirror_u': False, 'uv_mirror_v': False, 'uv_layer': False, 'uv_map': '', 'texgen': False, 'texgen_linear': False, 'uv_scale_u_main': 1.0, 'uv_scale_v_main': 1.0}
 DEBUG:objex.ObjexMaterialNodeTreeExplorer.buildCombinerInputs: Merged shadeRGB {'type': 'normals'} and shadeA {'type': 'normals'} into shade {'type': 'normals'}
-INFO:objex.OBJEX_OT_export.progress_report_print:     (  0.8101 sec |   0.7867 sec) Finished exporting materials, now exporting skeletons/animations
+INFO:objex.OBJEX_OT_export.progress_report_print:     (  0.6451 sec |   0.6441 sec) Finished exporting materials, now exporting skeletons/animations
 INFO:objex.ObjexWriter.write: now exporting skeletons
 INFO:objex.ObjexWriter.write:  ... and animations
-INFO:objex.OBJEX_OT_export.progress_report_print:     (  0.8149 sec |   0.7915 sec) Objex Export Finished
+INFO:objex.OBJEX_OT_export.progress_report_print:     (  0.6477 sec |   0.6467 sec) Objex Export Finished
